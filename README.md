@@ -1,2 +1,2 @@
-# German-Sentiment-Analysis---AirBNB-example
-German Sentiment Analysis - based on comments from Berlin Air BNB
+# German-Sentiment-Analysis
+German Sentiment Analysis - trying to built sentiment analyzer in German language
